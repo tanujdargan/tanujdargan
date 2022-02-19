@@ -1,4 +1,5 @@
 <h3 align="center">A passionate developer from India</h3>
+![1](https://media.giphy.com/media/1xkQacuqqtwKLCqO1A/giphy.gif)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanujdargan&show_icons=true&hide_border=true&theme=dark" />
@@ -6,7 +7,7 @@
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
   
-  <img align="righy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujdargan&layout=compact&theme=dark&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujdargan&layout=compact&theme=dark&hide_border=true" />
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujdargan&label=Profile%20views&color=0e75b6&style=flat" alt="tanujdargan" /> </p>
 

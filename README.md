@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujdargan&layout=compact&theme=dark&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujdargan&layout=compact&theme=dark&hide_border=true" />
 </a>
  
 - 🔭 I’m currently working on **IBDP Computer Science - Extended Essay**

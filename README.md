@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from India</h3>
 
-![1](https://raw.githubusercontent.com/tanujdargan/tanujdargan/main/final_test.gif)
+![gif](https://raw.githubusercontent.com/tanujdargan/tanujdargan/main/githubpfptd.gif)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanujdargan&show_icons=true&hide_border=true&theme=dark" />

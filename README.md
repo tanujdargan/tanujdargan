@@ -5,11 +5,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanujdargan&show_icons=true&hide_border=true&theme=dark" />
 </a>
+
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
-  
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujdargan&layout=compact&theme=dark&hide_border=true" />
 </a>
+  
+<br>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujdargan&label=Profile%20views&color=0e75b6&style=flat" alt="tanujdargan" /> </p>
   
 - 🔭 I’m currently working on **IBDP Computer Science - Extended Essay**

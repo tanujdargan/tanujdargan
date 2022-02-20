@@ -1,4 +1,4 @@
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Passionate Developer From India</h3>
 
 ![gif](https://raw.githubusercontent.com/tanujdargan/tanujdargan/main/githubpfptd.gif)
 

@@ -1,6 +1,8 @@
 <h3 align="center">A Passionate Developer From India</h3>
 <img src="https://raw.githubusercontent.com/tanujdargan/tanujdargan/main/githubpfptd.gif" width="700" height="400" align="left"/>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanujdargan&show_icons=true&hide_border=true&theme=dark" />
 </a>
@@ -40,5 +42,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanujdargan&theme=dark&hide_border=true" alt="tanujdargan" /></p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 

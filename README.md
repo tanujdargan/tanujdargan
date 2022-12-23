@@ -11,7 +11,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujdargan&layout=compact&theme=dark&hide_border=true" />
 </a>
 
-[![Tanuj Dargans's github activity graph](https://activity-graph.herokuapp.com/graph?username=tanujdargan&theme=xcode)](https://github.com/tanujdargan)
+[![Tanuj Dargans's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanujdargan&theme=xcode)](https://github.com/tanujdargan)
 
  
 - 🔭 I’m currently working on **IBDP Computer Science - Extended Essay**

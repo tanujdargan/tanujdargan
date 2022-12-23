@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujdargan&layout=compact&theme=dark&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujdargan&layout=compact&theme=dark&hide_border=true" />
 </a>
 
 [![Tanuj Dargans's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanujdargan&theme=xcode)](https://github.com/tanujdargan)

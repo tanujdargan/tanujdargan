@@ -1,5 +1,5 @@
 <h3 align="center">A Passionate Student & Developer From India</h3>
-<img src="https://raw.githubusercontent.com/tanujdargan/tanujdargan/main/githubpfptd.gif" width="700" height="400" align="left"/>
+<img src="https://raw.githubusercontent.com/tanujdargan/tanujdargan/main/githubpfptd.gif" width="858" height="480" align="center"/>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -10,9 +10,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujdargan&layout=compact&theme=dark&hide_border=true" />
 </a>
-
-[![Tanuj Dargans's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanujdargan&theme=xcode)](https://github.com/tanujdargan)
-
  
 - 🔭 I’m currently working on **Personal Portfolio Website**
 

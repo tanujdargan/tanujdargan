@@ -1,4 +1,4 @@
-<h3 align="center">A Passionate Developer From India</h3>
+<h3 align="center">A Passionate Student & Developer From India</h3>
 <img src="https://raw.githubusercontent.com/tanujdargan/tanujdargan/main/githubpfptd.gif" width="700" height="400" align="left"/>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -14,9 +14,9 @@
 [![Tanuj Dargans's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanujdargan&theme=xcode)](https://github.com/tanujdargan)
 
  
-- 🔭 I’m currently working on **IBDP Computer Science - Extended Essay**
+- 🔭 I’m currently working on **Personal Portfolio Website**
 
-- 🌱 I’m currently learning **Django, ReactJS, PHP**
+- 🌱 I’m currently learning **Javascript, Blender**
 
 - 💬 Ask me about **Python, Machine Learning, C++ Embedded, Java**
 

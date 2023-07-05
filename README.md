@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="325" src="https://raw.githubusercontent.com/tanujdargan/tanujdargan/main/githubpfptd.gif"  />
+<img align="left" height="250" src="https://raw.githubusercontent.com/tanujdargan/tanujdargan/main/githubpfptd.gif"  />
 
 <div align="right">
   <a href="https://www.youtube.com/tanujdargan" target="_blank">

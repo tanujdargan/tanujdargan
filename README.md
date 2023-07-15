@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! I'm Tanuj Dargan, a Self Taught Student Developer, studying at Trinity College Dublin.</h2>
+<h2 align="left">Hi👋! I'm Tanuj Dargan, a Self Taught Student Developer, studying at </h2>
 
 ###
 
@@ -128,7 +128,7 @@
 
 ###
 
-<p align="left">I am currently pursuing my 1st year of Engineering at Trinity College Dublin, Ireland.<br>Learning: Blender, Rust<br>Last Project Worked on: Project RiverWatch - Maker's Asylum</p>
+<p align="left">I am currently pursuing my 1st year of <br>Learning: Blender, Rust<br>Last Project Worked on: Project RiverWatch - Maker's Asylum</p>
 
 ###
 

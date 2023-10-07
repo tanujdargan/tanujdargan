@@ -32,7 +32,7 @@
 </div>
 
 <h2>Tanuj Dargan's Contributions</h2>
-<img src="https://raw.githubusercontent.com/tanujdargan/tanujdargan/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />

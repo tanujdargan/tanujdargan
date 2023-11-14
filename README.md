@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! I'm Tanuj Dargan, a Self Taught Student Developer, studying at </h2>
+<h2 align="left">Hi👋! I'm Tanuj Dargan, a Self Taught Student Developer, studying at UVIC, BC, Canada</h2>
 
 ###
 

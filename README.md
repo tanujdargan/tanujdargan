@@ -105,18 +105,4 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img align="left" height="350" src="https://raw.githubusercontent.com/tanujdargan/tanujdargan/main/githubpfptd.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/cstd95">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cstd95&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 [![](https://visitcount.itsvg.in/api?id=tanujdargan&icon=0&color=0)](https://visitcount.itsvg.in)

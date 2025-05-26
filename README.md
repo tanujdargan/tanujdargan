@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am currently pursuing my 2nd year of CS at University of Victoria.<br><br>Acitvely Learning: Three.JS, Blender and C.</p>
+<p align="left">I am currently pursuing my 3rd year of CS at University of Victoria.<br>
 
 ###
 
